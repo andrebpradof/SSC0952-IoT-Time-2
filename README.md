@@ -1,4 +1,4 @@
-# Projeto SSC0952 - Time 2 Internet das Coisas (2020)
+# Projeto SSC0952 - Time 2 - Internet das Coisas (2020)
 <h2>Grupos:</h2>
 
 <h3>Micro-serviços:</h3>
