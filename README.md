@@ -13,10 +13,10 @@ Tainá Andrello Piai - Nº USP: 9266664</br>
 <hr>
 
 <h3>Broker:</h3>
-Leonardo Prado Dias - n° USP: 10684642 </br>
-Marianna Karenina de Almeida Flôres - n° USP: 10821144 </br>
-Renan Gabriel Varoni - nº USP: 10310676 </br>
-Renan Peres Martins - n° USP: 10716612 </br>
+Leonardo Prado Dias - Nº USP: 10684642 </br>
+Marianna Karenina de Almeida Flôres - Nº USP: 10821144 </br>
+Renan Gabriel Varoni - Nº USP: 10310676 </br>
+Renan Peres Martins - Nº USP: 10716612 </br>
 <hr>
 
 <h3>Banco de Dados:</h3>
