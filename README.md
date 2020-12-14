@@ -9,7 +9,10 @@ Tainá Andrello Piai - Nº USP: 9266664</br>
 <hr>
 
 <h3>Aplicação:</h3>
-
+Bruno dos Santos Nº - 10786170 </br>
+Gustavo T. Mastrobuono - Nº 10734411 </br>
+Henrique de S. Q. dos Santos - Nº 10819029 </br>
+Witor M. A. de Oliveira Nº - 10692190 </br>
 <hr>
 
 <h3>Broker:</h3>
@@ -19,7 +22,11 @@ Renan Gabriel Varoni - Nº USP: 10310676 </br>
 Renan Peres Martins - Nº USP: 10716612 </br>
 <hr>
 
-<h3>Banco de Dados:</h3>
+<h3>Armazenamento:</h3>
+Nelson Calsolari Neto - Nº USP: 10277022 </br>
+Matheus Arataque Uema - Nº USP: 10276949 </br>
+Daniel Bernardes Pozzan - Nº USP: 10716608 </br>
+Otávio Pontes - Nº USP: 10716525 </br>
 
 <hr>
 
