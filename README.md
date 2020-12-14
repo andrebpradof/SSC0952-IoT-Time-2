@@ -15,6 +15,8 @@ Bruno dos Santos Nº - 10786170 </br>
 Gustavo T. Mastrobuono - Nº 10734411 </br>
 Henrique de S. Q. dos Santos - Nº 10819029 </br>
 Witor M. A. de Oliveira Nº - 10692190 </br>
+<br>
+<p>:link: <a href="https://github.com/andrebpradof/SSC0952-IoT-Time-2/tree/main/Aplicacao">Scripts</a></p>
 <hr>
 
 <h3>Broker:</h3>
@@ -22,6 +24,8 @@ Leonardo Prado Dias - Nº USP: 10684642 </br>
 Marianna Karenina de Almeida Flôres - Nº USP: 10821144 </br>
 Renan Gabriel Varoni - Nº USP: 10310676 </br>
 Renan Peres Martins - Nº USP: 10716612 </br>
+<br>
+<p>:link: <a href="https://github.com/andrebpradof/SSC0952-IoT-Time-2/tree/main/Broker">Scripts</a></p>
 <hr>
 
 <h3>Armazenamento:</h3>
@@ -29,7 +33,8 @@ Nelson Calsolari Neto - Nº USP: 10277022 </br>
 Matheus Arataque Uema - Nº USP: 10276949 </br>
 Daniel Bernardes Pozzan - Nº USP: 10716608 </br>
 Otávio Pontes - Nº USP: 10716525 </br>
-
+<br>
+<p>:link: <a href="https://github.com/andrebpradof/SSC0952-IoT-Time-2/tree/main/Armazenamento">Scripts</a></p>
 <hr>
 
 
