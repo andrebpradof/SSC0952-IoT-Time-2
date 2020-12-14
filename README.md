@@ -7,7 +7,7 @@ Diego da Silva Parra - Nº USP: 10716550</br>
 Mateus Fernandes Doimo - Nº USP: 10691971</br>
 Tainá Andrello Piai - Nº USP: 9266664</br>
 <br>
-<p>:link: Micro-serviços: <a href="https://github.com/andrebpradof/SSC0952-IoT-Time-2/tree/main/Microservico">Scripts</a></p>
+<p>:link: <a href="https://github.com/andrebpradof/SSC0952-IoT-Time-2/tree/main/Microservico">Scripts</a></p>
 <hr>
 
 <h3>Aplicação:</h3>
