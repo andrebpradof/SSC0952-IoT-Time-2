@@ -17,7 +17,9 @@ Otávio Pontes - Nº USP: 10716525</br>
 <p>Todo seu funcionamento (na questão do banco de dados em si) é via web, feito por meio do console oferecido pelo Firebase. Sua visualização só é permitida com o cadastro do email como colaborador do projeto, para fins avaliativos inserimos o email do professor (juliocest@gmail.com) fornecido no edisciplinas como usuário do github</p>
 
 #### Link para acesso ao banco de dados:
-`$ npm install`
+https://console.firebase.google.com/u/1/project/iot-2020-51fb8/firestore/data~2FSalas~2F2
+
+
 #### emails cadastrados no banco de dados:
 juliocest@gmail.com
 
