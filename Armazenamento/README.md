@@ -20,7 +20,11 @@ Otávio Pontes - Nº USP: 10716525</br>
 `$ npm install`
 #### emails cadastrados no banco de dados:
 juliocest@gmail.com
+
 andrebpf@usp.br
+
 diegoparra@usp.br
+
 mateusdoimo@usp.br
+
 ncalsolari@usp.br
