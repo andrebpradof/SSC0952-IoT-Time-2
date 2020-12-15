@@ -8,7 +8,6 @@ Renan Peres Martins --- n°USP: 10716612 </br>
 
 <p>Prof. Assoc. Júlio Cezar Estrella</p>
 <hr>
-
-<h3>Broker </h3> </br> 
-<p>broker usado: Mosquitto <a href="https://mosquitto.org/">(https://mosquitto.org/)</a></p></br> 
-<p>protocolo MQTT ->  versões 3.1, 3.1.1 e 5.0 </p></br> 
+<h3>Broker </h3> 
+<p>:link: Broker usado: Mosquitto  <a href="https://mosquitto.org/">(https://mosquitto.org/)</a></p>
+<p>Protocolo MQTT ->  versões 3.1, 3.1.1 e 5.0 </p></br> 
