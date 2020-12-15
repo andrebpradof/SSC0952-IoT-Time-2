@@ -1,5 +1,6 @@
 # IoT - Micro-Serviço
 <h3>SSC0952 - Internet das Coisas (2020)</h3>
+<h3>Grupo 14</h3>
 
 André Baconcelo Prado Furlanetti - Nº USP: 10748305 </br>
 Diego da Silva Parra - Nº USP: 10716550</br>
