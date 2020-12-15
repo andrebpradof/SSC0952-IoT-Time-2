@@ -10,4 +10,4 @@ Renan Peres Martins --- n°USP: 10716612 </br> </br>
 <hr>
 <h3>Broker </h3> 
 <p>:link: Broker usado: Mosquitto  <a href="https://mosquitto.org/">(https://mosquitto.org/)</a></p>
-<p>:info:Protocolo MQTT ->  versões 3.1, 3.1.1 e 5.0 </p></br> 
+<p>:information_source: Protocolo MQTT ->  versões 3.1, 3.1.1 e 5.0 </p></br> 
