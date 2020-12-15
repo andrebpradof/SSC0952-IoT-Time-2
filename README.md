@@ -1,6 +1,9 @@
 # Projeto SSC0952 - Time 2 - Internet das Coisas (2020)
-<h2>Grupos:</h2>
 
+<h3>🎥 Vídeo:  <a target="_blank" href="https://www.youtube.com/watch?v=njBJxJEwCXE">Link</a></h3>
+<br>
+<hr>
+<h2>Grupos:</h2>
 <h3>Micro-serviços:</h3>
 André Baconcelo Prado Furlanetti - Nº USP: 10748305 </br>
 Diego da Silva Parra - Nº USP: 10716550</br>
@@ -43,4 +46,3 @@ Otávio Pontes - Nº USP: 10716525 </br>
 <h4>Prof. Assoc. Júlio Cezar Estrella</h4>
 <hr>
 
-<h2>🎥 Vídeo:  <a href="https://www.youtube.com/embed/njBJxJEwCXE">Link</a></h2>
