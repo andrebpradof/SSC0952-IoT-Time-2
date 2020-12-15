@@ -43,5 +43,4 @@ Otávio Pontes - Nº USP: 10716525 </br>
 <h4>Prof. Assoc. Júlio Cezar Estrella</h4>
 <hr>
 
-<h2>🎥 Vídeo</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/njBJxJEwCXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>🎥 Vídeo:  <a href="https://www.youtube.com/embed/njBJxJEwCXE">Link</a></h2>
