@@ -1,10 +1,10 @@
 # IoT - Broker
 <h3>SSC0952 - Internet das Coisas (2020)</h3>
 <h3>Grupo 3</h3> 
-Leonardo Prado Dias --- n°USP: 10684642 </br> 
-Marianna Karenina de Almeida Flôres --- n°USP: 10821144 </br> 
-Renan Gabriel Varoni --- nº USP: 10310676 </br> 
-Renan Peres Martins --- n°USP: 10716612 </br> </br>
+Leonardo Prado Dias - N° USP: 10684642 </br> 
+Marianna Karenina de Almeida Flôres - N° USP: 10821144 </br> 
+Renan Gabriel Varoni - N° USP: 10310676 </br> 
+Renan Peres Martins - N° USP: 10716612 </br> </br>
 
 <p>Prof. Assoc. Júlio Cezar Estrella</p>
 <hr>
