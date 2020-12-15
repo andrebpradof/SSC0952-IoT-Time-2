@@ -4,46 +4,46 @@
 ######################################################################################################
 # Instalação do serviço de Broker
 
-sudo apt-get install mosquito
+`$ sudo apt-get install mosquito`
 
 # Diretório de acesso as configurações do Broker
 
-sudo nano /etc/mosquitto/mosquitto.conf/
+`$ sudo nano /etc/mosquitto/mosquitto.conf/`
 
 # Inicialização do serviço
 
-mosquitto -c /etc/mosquitto/mosquitto.conf/
+`$ mosquitto -c /etc/mosquitto/mosquitto.conf/`
 
 # Instalação do serviço client da mesma desenvolvedora
 
-sudo apt-get install mosquitto-clients
+`$ sudo apt-get install mosquitto-clients`
 
 ######################################################################################################
 # Comandos mqtt para subscrição/publicação nos tópicos do trabalho
 # Controle do Ar Condicionado
 
-mosquitto_pub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/aircon/24' -m 'MENSAGEM_DE_COMANDO' -q 2
+`$ mosquitto_pub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/aircon/24' -m 'MENSAGEM_DE_COMANDO' -q 2`
 
 # Leitura de resposta do Ar Condicionado
 
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/response' -q 2
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/response' -q 2`
 
 # Leitura do sensor de temperatura
 
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/temp/20' -q 2
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/temp/21' -q 2
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/temp/22' -q 2
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/temp/20' -q 2`
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/temp/21' -q 2`
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/temp/22' -q 2`
 
 # Leitura do sensor de umidade
 
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/umid/20' -q 2
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/umid/21' -q 2
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/umid/22' -q 2
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/umid/20' -q 2`
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/umid/21' -q 2`
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/umid/22' -q 2`
 
 # Leitura do sensor de luminosidade
 
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/luz/26' -q 2
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/luz/26' -q 2`
 
 # Leitura do sensor de movimento
 
-mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/movimento/25' -q 2
+`$ mosquitto_sub -h andromeda.lasdpc.icmc.usp.br -p 8031 -t '2/movimento/25' -q 2`
