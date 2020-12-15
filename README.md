@@ -14,10 +14,10 @@ Tainá Andrello Piai - Nº USP: 9266664</br>
 <hr>
 
 <h3>Aplicação:</h3>
-Bruno dos Santos Nº - 10786170 </br>
-Gustavo T. Mastrobuono - Nº 10734411 </br>
-Henrique de S. Q. dos Santos - Nº 10819029 </br>
-Witor M. A. de Oliveira Nº - 10692190 </br>
+Bruno dos Santos - Nº USP 10786170 </br>
+Gustavo T. Mastrobuono - Nº USP 10734411 </br>
+Henrique de S. Q. dos Santos - Nº USP 10819029 </br>
+Witor M. A. de Oliveira - Nº USP 10692190 </br>
 <br>
 <p>:link: <a href="https://github.com/andrebpradof/SSC0952-IoT-Time-2/tree/main/Aplicacao">Scripts</a></p>
 <hr>
