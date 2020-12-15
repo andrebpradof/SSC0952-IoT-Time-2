@@ -1,5 +1,5 @@
-# Script de coando a ser executado via 
-# prompt de comando da máquina onde o servidor broker opera
+# Script a ser executado via prompt de comando
+# da máquina onde o servidor broker opera
 
 ######################################################################################################
 # Instalação do serviço de Broker
