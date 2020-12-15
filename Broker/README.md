@@ -1,4 +1,4 @@
-# IoT - Micro-Serviço
+# IoT - Broker
 <h3>SSC0952 - Internet das Coisas (2020)</h3>
 <h3>Grupo 3</h3> 
 Leonardo Prado Dias --- n°USP: 10684642 </br> 
