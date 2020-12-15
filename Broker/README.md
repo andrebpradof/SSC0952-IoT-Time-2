@@ -1,13 +1,14 @@
-//<<<<<<<< SSC0953 - Internet das Coisa >>>>>>>>>>>> </br> 
-//2ºsemestre de 2020 </br> 
-// Professor Julio Cezar Estrella </br> 
+# IoT - Micro-Serviço
+<h3>SSC0952 - Internet das Coisas (2020)</h3>
+<h3>Grupo 3</h3> 
+Leonardo Prado Dias --- n°USP: 10684642 </br> 
+Marianna Karenina de Almeida Flôres --- n°USP: 10821144 </br> 
+Renan Gabriel Varoni --- nº USP: 10310676 </br> 
+Renan Peres Martins --- n°USP: 10716612 </br>
 
-//<<<< Grupo 3 >>>>>> </br> 
-//Leonardo Prado Dias --- n°USP: 10684642 </br> 
-//Marianna Karenina de Almeida Flôres --- n°USP: 10821144 </br> 
-//Renan Gabriel Varoni --- nº USP: 10310676 </br> 
-//Renan Peres Martins --- n°USP: 10716612 </br> 
+<p>Prof. Assoc. Júlio Cezar Estrella</p>
+<hr>
 
-//<<<< Broker </br> 
-//broker usado: Mosquitto (https://mosquitto.org/) </br> 
-//protocolo MQTT ->  versões 3.1, 3.1.1 e 5.0 </br> 
+<h3>Broker </h3> </br> 
+<p>broker usado: Mosquitto <a href="https://mosquitto.org/">(https://mosquitto.org/)</a></p></br> 
+<p>protocolo MQTT ->  versões 3.1, 3.1.1 e 5.0 </p></br> 
